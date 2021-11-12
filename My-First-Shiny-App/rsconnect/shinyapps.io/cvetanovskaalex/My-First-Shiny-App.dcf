@@ -1,0 +1,13 @@
+name: My-First-Shiny-App
+title: My-First-Shiny-App
+username:
+account: cvetanovskaalex
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5114462
+bundleId: 5245970
+url: https://cvetanovskaalex.shinyapps.io/My-First-Shiny-App/
+when: 1636759393.03829
+lastSyncTime: 1636759393.0383
+asMultiple: FALSE
+asStatic: FALSE
