@@ -8,6 +8,9 @@ shinyUI(fluidPage(
       the percent proportion of favourable responses to seven questions in each
       department.'),
     p('Data & description from https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/attitude.html'),
+    p(strong(em("Documentation:",a("Chatterjee–Price Attitude Data",href="https://github.com/cvetanovskaa/DevelopingDataProducts/blob/main/README.md")))),
+    p(strong(em("Github Repo:",a("Developing Data Products - Final Project; Shiny App",href="https://github.com/cvetanovskaa/DevelopingDataProducts")))),
+    
     
     sidebarLayout(
         sidebarPanel(
